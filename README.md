@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12345678/placeholder-banner.png" alt="Kwabena Duffuor Banner" width="100%" />
+  <img src="https://github.com/kduffuor/kduffuor/blob/main/github_header1.png" alt="Kwabena Duffuor Banner" width="100%" />
 </p>
 
 ## 🧾 Profile Snapshot
