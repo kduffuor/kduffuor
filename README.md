@@ -1,16 +1,29 @@
-## Hi there 👋
+## Snapshot
 
-<!--
-**kduffuor/kduffuor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+name = "Kwabena Duffuor Asante"
+location = "Ontario, Canada"
 
-Here are some ideas to get you started:
+education = [
+    "BSc Information Technology Education",
+    "MPhil Computer Science",
+    "MPS Informatics",
+    "Next: PhD in Computer Science"
+]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+interests = [
+    "Healthcare Analytics",
+    "Machine Learning",
+    "Responsible AI, Ethics & Data Governance",
+    "Business Intelligence"
+]
+
+skills = {
+    "Languages": ["Python", "R", "SQL", "Java", "C++"],
+    "Data_Tools": ["Pandas", "NumPy", "Matplotlib", "Power BI", "Tableau", "Excel"],
+    "ML_Libraries": ["scikit-learn", "TensorFlow", "PyTorch", "Keras"],
+    "Databases": ["PostgreSQL", "MySQL", "SQLite"],
+    "Concepts": ["Data Wrangling", "Predictive Analytics", "Deep Learning", "BI Dashboards", "Data Governance"]
+}
+
+currently_learning = ["Streamlit", "Flask", "Advanced Modeling"]
