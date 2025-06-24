@@ -31,4 +31,4 @@ skills = {
     "Concepts": ["Data Wrangling", "Predictive Analytics", "Deep Learning", "BI Dashboards", "Data Governance"]
 }
 
-currently_learning = ["Streamlit", "Flask", "Advanced Modeling"]
+currently_learning = ["Streamlit", "Flask", Snowflake, "Advanced Modeling"]
