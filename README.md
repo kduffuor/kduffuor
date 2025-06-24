@@ -1,4 +1,9 @@
-## Snapshot
+<!-- Banner -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/12345678/placeholder-banner.png" alt="Kwabena Duffuor Banner" width="100%" />
+</p>
+
+## 🧾 Profile Snapshot
 
 ```python
 name = "Kwabena Duffuor Asante"
