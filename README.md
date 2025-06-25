@@ -1,4 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kduffuor.kduffuor" alt="visitor badge" />
+
 <!-- Banner -->
 <p align="center">
   <img src="https://github.com/kduffuor/kduffuor/blob/main/github-header-image.png" alt="Kwabena Duffuor Banner" width="100%" />
