@@ -40,6 +40,6 @@ currently_learning = ["Streamlit", "Flask", "Snowflake", "Advanced Modeling"]
 
 ### 📈 GitHub Activity · Gamified
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/kduffuor/snake-activity/output/github-contribution-grid-snake.svg" />
 </p>
