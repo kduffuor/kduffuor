@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v1
+      - name: Check if package.json exists
+        run: |
+          ls -l package.json || echo "package.json does not exist"
       - run: bun install --frozen-lockfile
       - run: npm run type
       - run: npm run lint
@@ -22,20 +25,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Check if action.yml exists
+        run: |
+          ls -l action.yml || echo "action.yml does not exist"
       - name: update action.yml to use image from local Dockerfile
         run: |
           sed -i "s/image: .*/image: Dockerfile/" action.yml
-
       - name: generate-snake-game-from-github-contribution-grid
         id: generate-snake
         uses: ./  # Ensure this points to your forked repo or local code
         with:
-          github_user_name: platane
+          github_user_name: kduffuor  # Changed to kduffuor
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
       - name: ensure the generated file exists
         run: |
           ls dist
@@ -67,7 +71,7 @@ jobs:
         id: generate-snake
         uses: ./svg-only  # Point to your SVG-only version
         with:
-          github_user_name: kduffuor
+          github_user_name: kduffuor  # Changed to kduffuor
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
