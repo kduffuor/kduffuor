@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kduffuor.kduffuor" alt="visitor badge" />
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=913412EB&center=true&width=435&lines=Hi%2C+there!+%F0%9F%91%8B;I'm+Kwabena+Duffuor;ML+Engineer+and+a+Data+Analyst" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=913412EB&center=true&width=435&lines=Hi%2C+there!+%F0%9F%91%8B;I'm+Kwabena+Duffuor;ML+Engineer+%26+Data+Analyst" alt="Typing SVG" /></a>
 </p>
 
 ## 🧾 Profile Snapshot
