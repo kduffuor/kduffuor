@@ -20,6 +20,7 @@ education = [
 interests = [
     "Healthcare Analytics",
     "Machine Learning",
+    "Computer Vision",
     "Responsible AI, Ethics & Data Governance",
     "Business Intelligence"
 ]
