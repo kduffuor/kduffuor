@@ -9,30 +9,27 @@
 ```python
 name = "Kwabena Duffuor Asante"
 location = "Ontario, Canada"
-
 education = [
     "BSc Information Technology Education",
     "MPhil Computer Science",
     "MPS Informatics",
-    "Next: PhD in Computer Science"
+    "Next: PhD in Health Informatics"
 ]
-
 interests = [
     "Healthcare Analytics",
     "Machine Learning",
-    "Computer Vision",
+    "AI Governance & SaMD",
     "Responsible AI, Ethics & Data Governance",
     "Business Intelligence"
 ]
-
 skills = {
     "Languages": ["Python", "R", "SQL", "Java", "C++"],
-    "Data_Tools": ["Pandas", "NumPy", "Matplotlib", "Power BI", "Tableau", "Excel"],
-    "ML_Libraries": ["scikit-learn", "TensorFlow", "PyTorch", "Keras"],
-    "Databases": ["PostgreSQL", "MySQL", "SQLite"],
-    "Concepts": ["Data Wrangling", "Predictive Analytics", "Deep Learning", "BI Dashboards", "Data Governance"]
+    "Data_Tools": ["Pandas", "NumPy", "Matplotlib", "Power BI", "Tableau"],
+    "ML_Libraries": ["scikit-learn", "TensorFlow", "PyTorch", "Keras", "SHAP"],
+    "Dev_Tools": ["FastAPI", "Docker", "GitHub Actions"],
+    "Databases": ["PostgreSQL", "MySQL", "SQLite", "Firestore"],
+    "Concepts": ["Predictive Analytics", "Deep Learning", "BI Dashboards", "AI Explainability", "Data Governance", "Privacy-Compliant AI"]
 }
-
-currently_learning = ["Streamlit", "Flask", "Snowflake", "Advanced Modeling"]
+currently_learning = ["Health Informatics Systems", "KMP (Kotlin Multiplatform)", "Snowflake", "Advanced Modeling"]
 
 ```
