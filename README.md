@@ -28,8 +28,10 @@ skills = {
     "ML_Libraries": ["scikit-learn", "TensorFlow", "PyTorch", "Keras", "SHAP"],
     "Dev_Tools": ["FastAPI", "Docker", "GitHub Actions"],
     "Databases": ["PostgreSQL", "MySQL", "SQLite", "Firestore"],
-    "Concepts": ["Predictive Analytics", "Deep Learning", "BI Dashboards", "AI Explainability", "Data Governance", "Privacy-Compliant AI"]
+    "Concepts": ["Predictive Analytics", "Deep Learning", "BI Dashboards", "AI Explainability",
+                "Data Governance", "Privacy-Compliant AI"]
 }
-currently_learning = ["Health Informatics Systems", "KMP (Kotlin Multiplatform)", "Snowflake", "Advanced Modeling"]
+currently_learning = ["Health Informatics Systems", "KMP (Kotlin Multiplatform)", "Snowflake",
+                     "Advanced Modeling"]
 
 ```
